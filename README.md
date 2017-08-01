@@ -1,1 +1,0 @@
-# gradient-line-chart
